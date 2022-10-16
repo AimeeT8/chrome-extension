@@ -2,8 +2,8 @@ async function fetchData() {
   const options = {
     method: "GET",
     headers: {
-      "X-RapidAPI-Key": "75ccd321d9mshdc37c81212454f0p1aa943jsn3d2d75dd4246",
-      "X-RapidAPI-Host": "concerts-artists-events-tracker.p.rapidapi.com"
+      "X-RapidAPI-Key": "RapidAPIKey would go here",
+      "X-RapidAPI-Host": "Host name here"
     }
   };
 
